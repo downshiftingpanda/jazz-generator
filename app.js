@@ -3,3 +3,4 @@
 // init variables
 
 var global = {};
+
