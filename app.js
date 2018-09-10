@@ -1,1 +1,1 @@
-/* Jazz generator v1.0 */
+/* Jazz generator 1.0 */
