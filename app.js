@@ -1,1 +1,5 @@
-/* Jazz generator 1.0 */
+/* Jazz generator v1.0 */
+
+// init variables
+
+var global = {};
