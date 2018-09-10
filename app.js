@@ -3,4 +3,4 @@
 // init variables
 
 var global = {};
-
+global.notes = [];
