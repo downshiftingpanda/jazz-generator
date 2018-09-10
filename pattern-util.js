@@ -1,1 +1,3 @@
 /* Pattern util */
+
+var patterns = {};
