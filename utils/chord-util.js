@@ -1,1 +1,3 @@
 /* Chord util */
+
+var chords = {};
