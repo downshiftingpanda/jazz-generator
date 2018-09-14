@@ -2,5 +2,7 @@
 
 var global = {};
 var app = {};
+
+// Use AJAX
 app.options = {};
 app.properties = {};
