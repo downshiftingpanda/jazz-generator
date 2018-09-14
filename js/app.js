@@ -1,4 +1,4 @@
-/* Jazz generator v1.0 */
+// Jazz generator v1.0
 
 var global = {};
 var app = {};
@@ -6,5 +6,4 @@ var app = {};
 // Use AJAX with service
 app.options = {};
 app.properties = {};
-
 app.factory = {};
