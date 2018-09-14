@@ -3,9 +3,13 @@
 var global = {};
 var app = {};
 
+//TODO
+
 // Use AJAX with service
 app.options = {};
 app.properties = {};
 app.factory = {};
-
+// get parameters
 app.parameters = {};
+
+// initialize
