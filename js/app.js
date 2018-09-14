@@ -9,5 +9,5 @@ var app = {};
 app.options = {};
 app.properties = {};
 app.factory = {};
-
+// get parameters
 app.parameters = {};
