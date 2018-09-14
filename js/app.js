@@ -6,3 +6,5 @@ var app = {};
 // Use AJAX with service
 app.options = {};
 app.properties = {};
+
+app.factory = {};
