@@ -3,3 +3,4 @@
 var global = {};
 var app = {};
 app.options = {};
+app.properties = {};
