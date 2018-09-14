@@ -3,6 +3,6 @@
 var global = {};
 var app = {};
 
-// Use AJAX
+// Use AJAX with service
 app.options = {};
 app.properties = {};
